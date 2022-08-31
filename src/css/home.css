@@ -23,7 +23,9 @@ h1 {
     background-color: #b8cae54f;
 }
 
-
+.btn:focus{
+    box-shadow: none;
+}
 
 
 @media only screen and (max-width: 650px) {
