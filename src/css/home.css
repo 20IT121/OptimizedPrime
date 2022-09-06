@@ -14,7 +14,7 @@ h1 {
 }
 
 .card {
-    margin-top: 13px;
+    margin-top: 14px;
     --bs-card-inner-border-radius: none;
     --bs-card-bg: none;
 }
