@@ -1,0 +1,41 @@
+body {
+    background-color: #b8cae54f;
+    height: 100%;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+.container{
+    --bs-gutter-x: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.card {
+    margin-top: 20px;
+    --bs-card-inner-border-radius: none;
+    --bs-card-bg: none;
+}
+
+.card-header {
+    background-color: #b8cae54f;
+}
+
+.btn:focus{
+    box-shadow: none;
+}
+
+
+@media only screen and (max-width: 650px) {
+    .button-home {
+        width: auto;
+    }
+}
+
+.button-home:hover {
+    color: #000000;
+}

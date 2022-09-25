@@ -1,6 +1,6 @@
 import './App.css';
-import Home1 from './components/Home1';
-import Home2 from './components/Home2';
+import Landing from './components/Landing/LandingPage';
+import Home from './components/DataStructure/Home';
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
@@ -10,8 +10,10 @@ function App() {
     <>
       <Router >
         <Routes>
-          <Route exact path='/' element={<Home1 />} />
-          <Route exact path='/home2' element={<Home2 />} />
+          <Route exact path='/' element={<Landing heading1="Data Structure" heading2="Algorithms" heading3="Built-In Libraries" link1="ds" link2="algo" link3="lib"/>} />
+          <Route exact path='/ds' element={<Home heading1="Linear Data Structure" heading2="Non-Linear Data Structure" heading3="Not-sure" link=""/>} />
+          <Route exact path='/algo' element={<Home link=""/>} />
+          <Route exact path='/lib' element={<Home link=""/>} />      
         </Routes>
       </Router>
     </>
