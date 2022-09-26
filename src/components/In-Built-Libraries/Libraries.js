@@ -1,10 +1,10 @@
 import React from 'react'
-import Sidebar from '../Sidebar/Sidebar'
+import SidebarLib from '../Sidebar/SidebarLib'
 
 export default function Libraries() {
   return (
     <div>
-      <Sidebar />
+      <SidebarLib />
     </div>
   )
 }

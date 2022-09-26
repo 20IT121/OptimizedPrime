@@ -1,102 +1,77 @@
 export const NonLinearData = [
     {
         title: 'TREE',
-        path: '/tree-ds',
+        path: 'tree-ds',
         cName: 'nav-text'
     },
     {
         title: 'GRAPH',
-        path: '/graph-ds',
+        path: 'graph-ds',
+        cName: 'nav-text'
+    },
+    {
+        title: 'HEAP',
+        path: 'heap',
         cName: 'nav-text'
     },
     {
         title: 'TREE',
-        path: '/tree-ds',
+        path: 'tree-ds',
         cName: 'nav-text'
     },
     {
         title: 'GRAPH',
-        path: '/graph-ds',
+        path: 'graph-ds',
+        cName: 'nav-text'
+    },
+    {
+        title: 'HEAP',
+        path: 'heap',
         cName: 'nav-text'
     },
     {
         title: 'TREE',
-        path: '/tree-ds',
+        path: 'tree-ds',
         cName: 'nav-text'
     },
     {
         title: 'GRAPH',
-        path: '/graph-ds',
+        path: 'graph-ds',
+        cName: 'nav-text'
+    },
+    {
+        title: 'HEAP',
+        path: 'heap',
         cName: 'nav-text'
     },
     {
         title: 'TREE',
-        path: '/tree-ds',
+        path: 'tree-ds',
         cName: 'nav-text'
     },
     {
         title: 'GRAPH',
-        path: '/graph-ds',
+        path: 'graph-ds',
+        cName: 'nav-text'
+    },
+    {
+        title: 'HEAP',
+        path: 'heap',
         cName: 'nav-text'
     },
     {
         title: 'TREE',
-        path: '/tree-ds',
+        path: 'tree-ds',
         cName: 'nav-text'
     },
     {
         title: 'GRAPH',
-        path: '/graph-ds',
+        path: 'graph-ds',
         cName: 'nav-text'
     },
     {
-        title: 'TREE',
-        path: '/tree-ds',
-        cName: 'nav-text'
-    },
-    {
-        title: 'GRAPH',
-        path: '/graph-ds',
-        cName: 'nav-text'
-    },
-    {
-        title: 'TREE',
-        path: '/tree-ds',
-        cName: 'nav-text'
-    },
-    {
-        title: 'GRAPH',
-        path: '/graph-ds',
-        cName: 'nav-text'
-    },
-    {
-        title: 'TREE',
-        path: '/tree-ds',
-        cName: 'nav-text'
-    },
-    {
-        title: 'GRAPH',
-        path: '/graph-ds',
-        cName: 'nav-text'
-    },
-    {
-        title: 'TREE',
-        path: '/tree-ds',
-        cName: 'nav-text'
-    },
-    {
-        title: 'GRAPH',
-        path: '/graph-ds',
-        cName: 'nav-text'
-    },
-    {
-        title: 'TREE',
-        path: '/tree-ds',
-        cName: 'nav-text'
-    },
-    {
-        title: 'GRAPH',
-        path: '/graph-ds',
+        title: 'HEAP',
+        path: 'heap',
         cName: 'nav-text'
     }
 ]

@@ -20,8 +20,7 @@ export default function Home(props) {
         </div>
         <div className="card-body">
           <p className="card-text">A data structure is a specialized format for organizing, processing, retrieving and storing data. It is a way of storing data in a computer so that it can be used efficiently and it will allow
-            the most efficient algorithm to be used. The choice of the data structure begins from the choice of an
-            abstract data type (ADT).</p>
+            the most efficient algorithm to be used. </p>
           <Link to={`${props.link1}`} className="btn btn-primary button-home d-grid gap-2 col-4 mx-auto" /*onClick={play}*/>CLICK HERE</Link>
         </div>
       </div>

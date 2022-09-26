@@ -38,6 +38,12 @@
 .data {
   padding-left: 4px;
   padding-right: 3px;
+  margin-top: 18px;
+}
+
+.non-linear, .linear{
+  border-top: 1px solid;
+  margin-top: 5px;
 }
 
 a{
@@ -63,6 +69,7 @@ li {
   padding-top: 4px;
   padding-bottom: 4px;
   cursor: pointer;
+  border-bottom: 1px solid;
 }
 
 li:hover {

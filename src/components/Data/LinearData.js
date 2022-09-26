@@ -6,7 +6,7 @@ export const LinearData = [
     },
     {
         title: 'LINKED LIST',
-        path: '/linkedlist-ds',
+        path: 'linkedlist-ds',
         topic: {
             
         },
@@ -14,12 +14,12 @@ export const LinearData = [
     },
     {
         title: 'STACK',
-        path: '/stack-ds',
+        path: 'stack-ds',
         cName: 'nav-text'
     },
     {
         title: 'QUEUE',
-        path: '/queue-ds',
+        path: 'queue-ds',
         cName: 'nav-text'
     }
 ]
