@@ -1,0 +1,38 @@
+[
+    {
+        "title": "ArrayList",
+        "path": "list/arrayList"
+    },
+    {
+        "title": "LinkedList",
+        "path": "list/linkedList"
+    },
+    {
+        "title": "Vector",
+        "path": "list/vector"
+    },
+    {
+        "title": "Stack",
+        "path": "stack"
+    },
+    {
+        "title": "PriorityQueue",
+        "path": "queue/priorityQueue"
+    },
+    {
+        "title": "HashSet",
+        "path": "set/hashSet"
+    },
+    {
+        "title": "TreeSet",
+        "path": "set/treeSet"
+    },
+    {
+        "title": "HashMap",
+        "path": "map/hashMap"
+    },
+    {
+        "title": "TreeMap",
+        "path": "map/treeMap"
+    }
+]

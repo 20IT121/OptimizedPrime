@@ -1,10 +1,25 @@
 import React from 'react'
-import SidebarLib from '../Sidebar/SidebarLib'
+import Header from '../Header/Header';
+import Sidebar from '../Sidebar/Sidebar';
 
 export default function Libraries() {
   return (
     <div>
-      <SidebarLib />
+      <div className="main">
+
+        <div className="header">
+          <Header />
+        </div>
+
+        <div className="sidebar-comp">
+          <Sidebar link="libraries" />
+        </div>
+
+        <div className="">
+
+        </div>
+
+      </div>
     </div>
   )
 }

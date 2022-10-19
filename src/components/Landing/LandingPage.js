@@ -1,15 +1,9 @@
 import React from 'react';
 import './LandingPage.css';
 
-// import sound from "../voices/positive2.wav";
-
 import { Link } from 'react-router-dom';
 
 export default function Home(props) {
-
-  // function play(){
-  //   new Audio(sound).play();
-  // }
 
   return (
     <div className='container'>

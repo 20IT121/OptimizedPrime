@@ -1,9 +1,11 @@
 import React from 'react';
+import './Ds.css';
 import Sidebar from '../Sidebar/Sidebar';
 
 import Header from '../Header/Header';
 
-export default function Algorithm() {
+export default function Ds() {
+
   return (
     <div className="main">
 
@@ -12,7 +14,7 @@ export default function Algorithm() {
       </div>
 
       <div className="sidebar-comp">
-        <Sidebar link="algorithm" />
+        <Sidebar link="dataStructure"/>
       </div>
 
       <div className="">
@@ -21,4 +23,5 @@ export default function Algorithm() {
 
     </div>
   )
+
 }

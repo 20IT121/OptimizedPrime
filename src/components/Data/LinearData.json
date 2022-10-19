@@ -1,0 +1,30 @@
+[
+    {
+        "title": "ARRAY",
+        "path": "array-ds",
+        "childrens": [
+            
+        ]
+    },
+    {
+        "title": "LINKED LIST",
+        "path": "linkedlist-ds",
+        "childrens": [
+            
+        ]
+    },
+    {
+        "title": "STACK",
+        "path": "stack-ds",
+        "childrens": [
+            
+        ]
+    },
+    {
+        "title": "QUEUE",
+        "path": "queue-ds",
+        "childrens": [
+            
+        ]
+    }
+]

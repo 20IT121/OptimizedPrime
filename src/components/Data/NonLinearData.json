@@ -1,0 +1,46 @@
+[
+    {
+        "title": "TREE",
+        "path": "tree",
+        "childrens": [
+            {
+                "title": "Introduction",
+                "path": "tree/introduction"
+            },
+            {
+                "title": "Implementation by other DS",
+                "path": "tree/implementation"
+            }
+        ]
+    },
+    {
+        "title": "GRAPH",
+        "path": "graph",
+        "classname": "nav-text",
+        "childrens": [
+            {
+                "title": "Introduction",
+                "path": "graph/introduction"
+            },
+            {
+                "title": "Implementation by other DS",
+                "path": "implementation"
+            }
+        ]
+    },
+    {
+        "title": "HEAP",
+        "path": "heap",
+        "classname": "nav-text",
+        "childrens": [
+            {
+                "title": "Introduction",
+                "path": "introduction"
+            },
+            {
+                "title": "Implementation by other DS",
+                "path": "implementation"
+            }
+        ]
+    }
+]

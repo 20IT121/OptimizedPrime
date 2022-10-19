@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Prim's Algorithm",
+        "path": "prims"
+    },
+    {
+        "title": "Kruskal's Algorithm",
+        "path": "kruskal"
+    },
+    {
+        "title": "Kosaraju's Algorithm",
+        "path": "kosaraju"
+    },
+    {
+        "title": "Tarjans Algorithm",
+        "path": "tarjsna"
+    },
+    {
+        "title": "Dijkstra's shortest path Algorithm",
+        "path": "dijkstra"
+    },
+    {
+        "title": "Bellman-Ford Algorithm",
+        "path": "bellman-ford"
+    },
+    {
+        "title": "Floyd Warshall Algorithm",
+        "path": "floyd-warshall"
+    },
+    {
+        "title": "Dial's Algorithm",
+        "path": "disals"
+    }
+]
