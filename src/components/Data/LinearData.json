@@ -1,28 +1,28 @@
 [
     {
         "title": "ARRAY",
-        "path": "array-ds",
+        "path": "array",
         "childrens": [
             
         ]
     },
     {
         "title": "LINKED LIST",
-        "path": "linkedlist-ds",
+        "path": "linkedlist",
         "childrens": [
             
         ]
     },
     {
         "title": "STACK",
-        "path": "stack-ds",
+        "path": "stack",
         "childrens": [
             
         ]
     },
     {
         "title": "QUEUE",
-        "path": "queue-ds",
+        "path": "queue",
         "childrens": [
             
         ]

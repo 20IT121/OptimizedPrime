@@ -1,18 +1,3 @@
-.sidebar {
-  height: auto;
-  background-color: #b8cae54f;
-  width: 255px;
-  overflow-y: scroll;
-  position: fixed;
-  bottom: 0;
-  top: 50px;
-}
-
-.sidebar::-webkit-scrollbar {
-  display: none;
-}
-
-
 .data {
   margin-top: 12px;
 }

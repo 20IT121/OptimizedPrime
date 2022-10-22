@@ -13,12 +13,17 @@ function App() {
     <>
       <Router >
         <Routes>
-          <Route exact path='/' element={<Landing heading1="Data Structure" heading2="Algorithms" heading3="Built-In Libraries" link1="ds" link2="algo" link3="lib"/>} />
-          <Route exact path='ds' element={<Ds />} />
-          <Route exact path='algo' element={<Algorithm />} />
-          <Route exact path='lib' element={<Libraries />} />      
+          <Route exact path='/' element={<Landing heading1="Data Structure" heading2="Algorithms" heading3="Built-In Libraries" link1="ds" link2="algorithm" link3="libraries" />} />
+          <Route exact path='ds' element={<Ds />} >
+            <Route exact path=':id' element={<Ds />}>
+              <Route exact path=':link' element={<Ds />} />
+            </Route>
+          </Route>
+          <Route exact path='algorithm' element={<Algorithm />} />
+          <Route exact path='libraries' element={<Libraries />} />
         </Routes>
       </Router>
+
     </>
   );
 }

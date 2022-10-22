@@ -16,7 +16,6 @@
     {
         "title": "GRAPH",
         "path": "graph",
-        "classname": "nav-text",
         "childrens": [
             {
                 "title": "Introduction",
@@ -24,18 +23,17 @@
             },
             {
                 "title": "Implementation by other DS",
-                "path": "implementation"
+                "path": "graph/implementation"
             }
         ]
     },
     {
         "title": "HEAP",
         "path": "heap",
-        "classname": "nav-text",
         "childrens": [
             {
                 "title": "Introduction",
-                "path": "introduction"
+                "path": "heap/introduction"
             },
             {
                 "title": "Implementation by other DS",
