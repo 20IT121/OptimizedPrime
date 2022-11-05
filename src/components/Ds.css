@@ -24,7 +24,7 @@
 .sidebar-comp {
     height: 93vh;
     background-color: #b8cae54f;
-    width: 260px;
+    width: 18%;
     overflow-y: scroll;
     /* position: fixed; */
     /* bottom: 0; */
@@ -54,5 +54,30 @@
 .content {
     right: 0;
     margin-left: 10px;
-    margin-top: 8px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 82%;
+    overflow-y: scroll;
+    height: 90vh;
+}
+
+.content::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+.content::-webkit-scrollbar-track { 
+    background: #eaecfc;
+}
+
+/* Handle */
+.content::-webkit-scrollbar-thumb {
+    background: #ffffff;
+    border-radius: 10px;
+}
+
+/* Handle on Hover */
+.content::-webkit-scrollbar-thumb:hover {
+    background: rgb(180, 180, 180);
 }
